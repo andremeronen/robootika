@@ -1,6 +1,6 @@
 #include <Servo.h>
 
-//defineerib ära neid osa mida vajab läheb
+//ühendab servo ja määrab sisendeid
 #define pinServo 3
 #define pinButt1 4
 #define pinButt2 5
