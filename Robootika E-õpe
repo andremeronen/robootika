@@ -1,0 +1,29 @@
+#include <Servo.h>
+
+#define pinServo 3
+#define pinButt1 4
+#define pinButt2 5
+#define pinButt3 6
+
+Servo myServo;
+
+void setup() {
+  myServo.attach(pinServo);
+  
+  pinMode( pinButt1,INPUT );
+  pinMode( pinButt2,INPUT );
+  pinMode( pinButt3,INPUT );
+}
+
+void loop() {
+  if ( digitalRead(pinButt1) ==1 ) myServo.write(90);
+  if ( digitalRead(pinButt2) ==1 ) myServo.write(180);
+  if ( digitalRead(pinButt3) ==1 ) myServo.write(360);
+  delay(15);
+}
+
+#Minu looming
+#https://www.tinkercad.com/things/g87ArQAstT1/editel?returnTo=%2Fdashboard%2Fdesigns%2Fcircuits
+
+#Abi
+#https://www.youtube.com/watch?v=0KuALpVvQZI
