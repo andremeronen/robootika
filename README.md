@@ -23,7 +23,7 @@ Juhtmed
 
 
 ### Skeem
-<img width="600" height="766" alt="robootika_10.06.2026.jpeg" src="https://github.com/user-attachments/assets/1c10471e-9daa-4618-a41a-345139198f8b" />
+<img width="600" height="766" alt="robootika_10.06.2026.jpeg" src="https://github.com/andremeronen/robootika/blob/main/robootika_10.06.2026.jpeg" />
 
 ***
 ### Probleemid
