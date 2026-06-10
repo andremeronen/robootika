@@ -30,7 +30,7 @@ Juhtmed
 ***
 
 ### Kokkuvõte
-Õpisin:
+Õppisin:
 * Arduino plaadi kasutamist ja ühendamist
 * Mootorite ning mootorshield kasutamist
 * RC-puldi ja reciever-i tööpõhimõtet
